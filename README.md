@@ -19,3 +19,4 @@ which is based on LSHK table and downloadable from [http://blyt.net/domingo2/Chi
 
 # Data visualization
 An early prototype of the visualization can be found at [https://public.tableau.com/profile/denise.mak#!/vizhome/CantonesePhonemesv0_1/canto-tone-dash](https://public.tableau.com/profile/denise.mak#!/vizhome/CantonesePhonemesv0_1/canto-tone-dash)
+![screenshot of visualization](canto-syl-proto.png)
